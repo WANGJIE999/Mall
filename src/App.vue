@@ -2,5 +2,17 @@
   <div id="app"></div>
 </template>
 
-<style >
+<script>
+export default {
+  name: "app",
+  data() {
+    return {};
+  },
+  components: {},
+  mounted() {},
+  methods: {},
+};
+</script>
+
+<style>
 </style>
